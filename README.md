@@ -33,4 +33,4 @@ This chatbot is built on the following stack:
 - [Next.js](https://nextjs.org/) – framework
 - [Vercel AI SDK](https://sdk.vercel.ai/docs) – AI library
 - [TailwindCSS](https://tailwindcss.com/) – styles
-- [DaisyUI](http://daisyui.com) - styles
+- [DaisyUI](http://daisyui.com) - styles 
